@@ -23,3 +23,6 @@ body{
     color: black;
     border-radius: 10px;
 }
+p{
+    text-align: justify;
+}
