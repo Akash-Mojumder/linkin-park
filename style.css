@@ -7,6 +7,7 @@ body{
 }
 .display-flex{
     display: flex;
+    margin-bottom: 20px;
 }
     
 .page-width{
@@ -15,6 +16,7 @@ body{
 }
 .page-width img{
     width:80%;
+    padding-top: 80px;
 }
 .button{
     text-decoration: none;
@@ -26,3 +28,7 @@ body{
 p{
     text-align: justify;
 }
+.hybrid-theory{
+    display: flex ;
+}
+
